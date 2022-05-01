@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://images.pexels.com/videos/2268807/free-video-2268807.jpg?cs=srgb&dl=pexels-joel-dunn-2268807.jpg&fm=jpg);
+    margin: 30px;
+}
+
+
+h1{
+    color: hsl(208, 100%, 97%,);
+    font-size: 70px;
+    text-align: rigth;
+    font-family:'Courier New', Courier, monospace;
+    background-color: hsl(208, 100%, 97%, 0.5) ;
+    text-align: right;
+    padding-left: 50%;
+    }
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8;
+    opacity: 1;
+}
+.dive{
+    background-color: hsl(208, 100%, 97%, 0.5);
+    padding-bottom: 75px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    
+}
+.duv{
+    opacity: 0.4;
+}

@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/170/341/large_2x/empty-yellow-abstract-scene-with-bouncing-spheres-3d-render-illustration-with-yellow-abstract-room-with-3d-yellow-spheres-vector.jpg);
+    background-attachment: fixed;
+}
+
+h1,h2,h3,h4,h5,h6{
+    align-items: center;
+    color: cornflowerblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+div{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+h1{
+    font-size: 200px;
+    border: 3px solid rgb(255, 255, 255)!important;
+}
+h2{
+    font-size: 70px;
+}
+h3{
+    font-size: 60px;
+}
+h4{
+    font-size: 50px;
+}
+h5{
+    font-size: 40px;
+}
+h6{
+    font-size: 30px;
+}
